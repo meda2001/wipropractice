@@ -1,0 +1,9 @@
+Write a pseudocode to print the first 25 prime numbers from any given number. Assuming there is a function isPrime () taking numbers as arguments and return as true or false
+
+counter = 0
+num = 2
+while counter < 25:
+    if isPrime(num):
+        print(num)
+        counter += 1
+    num += 1

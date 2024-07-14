@@ -1,0 +1,12 @@
+     get a number and print whether the given number is
+     even or odd
+     pseudocode:
+     START
+         GET num
+         COMPUTE num divide by 2
+         IF reminder is 0
+             print even number
+         ELSE
+             print odd number
+         ENDIF
+     END
